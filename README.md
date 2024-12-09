@@ -10,6 +10,9 @@ The project is pretty straightforward. It involves building a personal CV using 
 ## My Cv - Project Url
 Incase You couldnt find the link to the webpage this is the Url  [Live Site](https://diamond-commit.github.io/roadmap/)
 
+## Project Page Url 
+https://roadmap.sh/projects/single-page-cv
+
 ## Installation
 
 To run this project locally, follow these steps:
